@@ -3,6 +3,7 @@ git add <filename>
 git add .
 git commit -m "comment"
 git checkout <id>
+git log --oneline
 git revert <id> //removes it as a new commit
 git reset <id>//removes all commit upto that id
 git branch -a//show all the branch
@@ -10,6 +11,7 @@ git checkout -b <branch name> //add a new branch
 git branch -D <branch name > //delete a branch in master or some other branch
 git remote add <alias name > <alias link > // create an alias
 git push/pull/clone <alias or link> <branch name>
+
 
 #For multiple users we can add out changes through feature branches rather than master branch\
 #For using others work (fork->clone->edit->push->pull request)
