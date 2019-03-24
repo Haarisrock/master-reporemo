@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>CSS Practice</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.css"></script>
+</head>
+<body>
+    <h1 id="mystyle1">Hey! Everyone</h1><br>
+    <p>Hello! this is haaris and it's my first webpage</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil inventore illum necessitatibus animi, amet esse voluptate dolores molestiae autem in laudantium sit molestias incidunt aliquid eum expedita possimus! Ipsam numquam explicabo, ab perspiciatis tenetur, quisquam blanditiis illum fugit quas, repellat corrupti culpa dicta nihil. Illum debitis repellendus hic ad reiciendis.</p>
+    <div style="padding-left:500px;">
+            <img src"5699110-new-hd-wallpaper-download.jpg" height="500" width="100" alt="sorry! image not available">
+    </div>
+    <form data-ng-style="border:10px">
+        Username:<br>
+        <input type="text" name="name" size="40"><br>
+        Password:<br>
+        <input type="password" name="age" size="50">&nbsp<input type="submit" value="Submit">&nbsp<input type="reset"><br>
+        Date of Birth:
+        </Birth:><input type="date" name="Birth date" max="2018-12-3">
+        <br>EMAIL ID:
+        <input type="email" name="email" value="mdhaaris23@gmail.com " readonly><br>
+    </form><br>
+    <br>
+    <br>
+    <a href="https://www.google.com">Google</a><br>
+    <a href="https://www.facebook.com">Facebook</a><br>
+    <a href="#Name">Click Me</a><br>
+    <table>
+        <tr>
+            <th> The Planet</th><!__mark is highlight__!>
+            <th> The Ocean </th>
+            <th> The Desert </th>
+        </tr>
+        <tr>
+            <td> The Earth </td>
+            <td> The Pacific </td>
+            <td> The Sahara </td>	
+        </tr>
+        <tr>
+            <td>Mars</td>
+            <td>Unknown</td>
+            <td>Unknown</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <a name="Name">
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        <div id="mystyle2">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis sapiente animi est ducimus harum, ab fugit laudantium nobis similique rem, dolorem cupiditate repudiandae! Perspiciatis, obcaecati amet. Libero exercitationem cum voluptas, ipsum, voluptatem praesentium laborum accusantium cumque, doloremque sed omnis voluptatum mollitia inventore. Minima dolorem, debitis illum repudiandae unde aspernatur deserunt!</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis ea dignissimos, provident aliquam quas qui in nemo quisquam accusantium? Nesciunt velit, aperiam accusantium optio nemo quod mollitia quia corrupti earum quisquam officia possimus nobis ullam voluptas saepe quas nulla aut numquam iusto error doloribus pariatur. Nulla praesentium sunt ratione saepe cumque, quos, reiciendis assumenda voluptates error ullam maxime sapiente accusamus.</p>
+    </div>
+        <img src="iron_man_avengers-1280x720.jpg" height="500" width="700">
+    </a>
+</body>
+</html>
